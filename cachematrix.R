@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Two functions create, the first creates a special matrix and the second one 
+## computes the inverse that can be returned by the first function
+
 
 ## Create a special matrix that can cache its inverse
 
