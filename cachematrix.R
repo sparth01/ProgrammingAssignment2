@@ -1,4 +1,4 @@
-## Two functions create, the first creates a special matrix and the second one 
+## Two functions created, the first creates a special matrix and the second one 
 ## computes the inverse that can be returned by the first function
 
 
